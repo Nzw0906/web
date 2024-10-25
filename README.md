@@ -1,4 +1,13 @@
-<h1>欢迎</h1>
-<h3>欢迎来到北的web</h3>
-<hr>
-<p>这是一个私人的网站，供个人存放些东西<p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>北的web</title>
+    <link rel="stylesheet" href="bei.css">
+</head>
+<body>
+    <h1>欢迎光临</h1>
+    <hr>
+</body>
+</html>
